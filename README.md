@@ -34,7 +34,7 @@ To get a local copy up and running, follow these simple steps:
 
 ---
 
-##🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 1. HTML5: For semantic web markup.
 2. CSS3: For styling and responsive layout.
